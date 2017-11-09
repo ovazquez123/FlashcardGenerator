@@ -10,7 +10,7 @@ The complete list of questions and answers for this application is inside the [q
 
 To install the application, first clone this repository:
 
-	git clone git@github.com:angrbrd/flashcard-generator.git
+	git clone https://github.com/ovazquez123/FlashcardGenerator.git
 	
 Then install the [inquirer](https://www.npmjs.com/package/inquirer) package for command line interaction.
 
